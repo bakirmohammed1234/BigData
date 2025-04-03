@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="CharacterCount">
+    <output-path>$PROJECT_DIR$/out/artifacts/CharacterCount</output-path>
+    <root id="archive" name="MapReduceExercices.jar">
+      <element id="module-output" name="MapReduceExercices" />
+    </root>
+  </artifact>
+</component>

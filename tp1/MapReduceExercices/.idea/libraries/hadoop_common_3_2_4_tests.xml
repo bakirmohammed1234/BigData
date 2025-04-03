@@ -125,6 +125,14 @@
       <root url="jar://$PROJECT_DIR$/../../../../../../../hadoop/share/hadoop/yarn/hadoop-yarn-services-api-3.2.4.jar!/" />
       <root url="jar://$PROJECT_DIR$/../../../../../../../hadoop/share/hadoop/yarn/hadoop-yarn-services-core-3.2.4.jar!/" />
       <root url="jar://$PROJECT_DIR$/../../../../../../../hadoop/share/hadoop/yarn/hadoop-yarn-submarine-3.2.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../../hadoop/share/hadoop/hdfs/hadoop-hdfs-3.2.4-tests.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../../hadoop/share/hadoop/hdfs/hadoop-hdfs-3.2.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../../hadoop/share/hadoop/hdfs/hadoop-hdfs-client-3.2.4-tests.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../../hadoop/share/hadoop/hdfs/hadoop-hdfs-client-3.2.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../../hadoop/share/hadoop/hdfs/hadoop-hdfs-httpfs-3.2.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../../hadoop/share/hadoop/hdfs/hadoop-hdfs-nfs-3.2.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../../hadoop/share/hadoop/hdfs/hadoop-hdfs-rbf-3.2.4-tests.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../../hadoop/share/hadoop/hdfs/hadoop-hdfs-rbf-3.2.4.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
